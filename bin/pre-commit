@@ -1,0 +1,4 @@
+#!/bin/sh
+
+#docker exec diamond-php php artisan linter:all
+./docker/app linter
